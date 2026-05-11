@@ -1,4 +1,9 @@
 {
+  "name": "plain-smoke-241d",
+  "compatibility_date": "2026-05-11",
+  "assets": {
+    "directory": "."
+  },
   "observability": {
     "enabled": false,
     "head_sampling_rate": 1,
